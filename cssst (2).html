@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Danial.io | White-Hat Hacker</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+    body {
+      background: linear-gradient(145deg, #0f0f0f, #1a1a1a);
+      color: #00ffcc;
+      font-family: 'Share Tech Mono', monospace;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+      text-shadow: 0 0 10px #00ffcc;
+    }
+
+    p {
+      font-size: 20px;
+      margin-bottom: 40px;
+      color: #cccccc;
+      text-shadow: 0 0 5px #009999;
+    }
+
+    a {
+      display: inline-block;
+      margin: 12px;
+      padding: 12px 24px;
+      background-color: #1f1f1f;
+      color: #00ffcc;
+      text-decoration: none;
+      border: 2px solid #00ffcc;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #00ffcc40;
+      transition: all 0.3s ease;
+    }
+
+    a:hover {
+      background-color: #00ffcc;
+      color: #1a1a1a;
+      box-shadow: 0 0 20px #00ffcc90;
+    }
+
+    .footer {
+      margin-top: 60px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>👩‍💻 Danial.io</h1>
+  <p>White-Hat Hacker ⚔️ | Cyber Guardian 🌐 | Firewall Whisperer 🧠</p>
+
+  <a href="https://instagram.com/Danial.io" target="_blank">Instagram</a>
+  <a href="https://github.com/Danial.io" target="_blank">GitHub</a>
+  <a href="https://linkedin.com/in/donial.io" target="_blank">LinkedIn</a>
+
+  <div class="footer">🛡️ Securing cyberspace with style | Crafted by Danial.io</div>
+</body>
+</html>
